@@ -16,6 +16,10 @@ body{
     background-color: #1b72e8;
 }
 
+.rosa{
+    background-color: pink;
+}
+
 .bordo{
     border: 1px solid black;
 }
