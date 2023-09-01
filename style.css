@@ -2,6 +2,30 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+/*colori*/
+
 .grigio{
     background-color: #f8f9fa;
+}
+
+.scuro{
+    background-color: #051e34;
+}
+
+.blu{
+    background-color: #1b72e8;
+}
+
+.bordo{
+    border: 1px solid black;
+}
+
+/*dimensioni*/
+
+.altezza{
+    height: 100vh;
+}
+
+.piccolo{
+    height: 300px;
 }
