@@ -26,6 +26,10 @@ body{
     height: 100vh;
 }
 
-.piccolo{
-    height: 300px;
+.d-img img{
+    width: 70px;
+}
+
+.dim{
+    width: 400px;
 }
