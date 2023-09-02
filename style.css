@@ -31,5 +31,13 @@ body{
 }
 
 .dim{
-    width: 400px;
+    width: 100%;
+}
+
+main div .sfondo{
+    background-image: url(img/sidebar-bg.png);
+}
+
+.pad{
+    padding: 10px 0px;
 }
