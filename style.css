@@ -13,11 +13,19 @@ body{
 }
 
 .blu{
-    background-color: #1b72e8;
+    background-color: #1a6dde;
 }
 
 .bordo{
     border: 1px solid black;
+}
+
+.bottone{
+    background-color: #165bba;
+    border-radius: 16px;
+   
+    
+    font-size: small;
 }
 
 /*dimensioni*/
