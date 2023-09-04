@@ -17,7 +17,7 @@ body{
 }
 
 .bordo{
-    border: 1px solid black;
+    border: 1px solid lightgrey;
 }
 
 
@@ -41,6 +41,11 @@ main div .sfondo{
 
 .pad{
     padding: 10px 0px;
+}
+
+tr td img{
+    width: 40px;
+    padding-right: 10px;
 }
 
 /*componenti*/
