@@ -24,7 +24,7 @@ body{
 /*dimensioni*/
 
 .altezza{
-    height: 100vh;
+    height: 100%;
 }
 
 .d-img img{
@@ -43,9 +43,21 @@ main div .sfondo{
     padding: 10px 0px;
 }
 
+.mar{
+    margin: 30px 0px;
+}
+
 tr td img{
     width: 40px;
     padding-right: 10px;
+}
+
+.containerasia{
+    width: 200px;
+}
+
+.containera{
+    width: calc(100%-200px);
 }
 
 /*componenti*/
