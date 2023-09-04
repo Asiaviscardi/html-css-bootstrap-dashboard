@@ -50,3 +50,12 @@ main div .sfondo{
     border-radius: 16px;
     font-size: small;
 }
+
+.bot-bianco{
+    border: 1px solid white;
+    color: white;
+    background-color: #1a6dde;
+    padding: 6px 13px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
