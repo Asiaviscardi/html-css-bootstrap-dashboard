@@ -64,3 +64,9 @@ tr td img{
     border-radius: 5px;
     margin-left: 20px;
 }
+
+td button{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
